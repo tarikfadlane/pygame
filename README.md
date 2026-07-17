@@ -4,12 +4,12 @@ Bienvenue dans ce projet de jeu rétro développé avec **Pygame** ! Ce projet i
 
 ## 📸 Aperçu du Jeu
 
-![Footage]
+
 
 https://github.com/user-attachments/assets/d0619c5f-d7b7-4f2f-99eb-98078095aa8a
 
 
-![Écran Principal]
+
 
 <img width="1201" height="948" alt="settings" src="https://github.com/user-attachments/assets/f5982e5e-60e0-4798-b434-75ff41e8337f" />
 <img width="1201" height="948" alt="main screen" src="https://github.com/user-attachments/assets/9ac2b271-4591-4f7a-8693-dc8df81245f1" />
